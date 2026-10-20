@@ -18,3 +18,9 @@ UI notes: "+ Consistent Character" saves the current image to My AI Images and f
 **Narration:** the CloneVoice voices need a CloneVoice API key in the VideoExpress user profile; the server returns 400 without it. Per the user's choice, narration uses built-in Text to Speech: **Christopher Multilingual**, en-US, speed 1. The voice resets to Andrew each time, so it's re-selected for every shot. The TTS text limit is 120 characters.
 **Image candidates:** with Consistent Character on, Create Image gives 2 candidates, and one must be clicked to select it before Create Video.
 **Production order:** grouped by reference (see order.json), with job IDs in jobs.json.
+
+## Session 2 notes (resumed run)
+- All 105 shots submitted. Each no-reference shot gives 1 image candidate, briefly checked in batches of 8 before animating.
+- Regenerated: S016 (wrong ship type), S021 (garbled text ×2, then a modern German flag; final version has no flag), S025 (sailing-ship setting), S047 (misspelled headline), S053 (anachronistic microphone), S056 (child read as adult), S068 (letter signed "Wilson").
+- Rewritten before generation to avoid garbled text: S086, S094, S098 (headline shots changed to scenes without lettering).
+- Accepted with minor compromises: S046 (odd second figure), S071 (medal shown with a ribbon), S077 (blurry banner text), S083 (ferry bow intact).
