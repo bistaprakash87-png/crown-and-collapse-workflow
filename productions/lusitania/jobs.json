@@ -458,5 +458,41 @@
 },
 "S105": {
 "video": "44e6b5a4-261d-4106-b530-4b2f6b52d970"
+},
+"S018a": {
+"video": "f35b6ab3-dd70-4d8e-ba07-142a9edc4674",
+"verified_image": true
+},
+"S045a": {
+"video": "ff6bc579-7986-42f5-b94e-9306349b7eda",
+"verified_image": true
+},
+"S055a": {
+"video": "8ca44b2e-f223-4162-a45f-de181b9403f0",
+"verified_image": true
+},
+"S071a": {
+"video": "df62ce1b-acb5-4aa0-9d3d-be485dfd5958",
+"verified_image": true
+},
+"S072a": {
+"video": "d4f69d0b-6bfa-4cc6-8512-9b23a8b55eaf",
+"verified_image": true
+},
+"S082a": {
+"video": "f499f2ca-b7ea-4541-95b4-4aa98cf486a2",
+"verified_image": true
+},
+"S083a": {
+"video": "e8e37271-cb4b-436a-b471-86fa258fe237",
+"verified_image": true
+},
+"S093a": {
+"video": "85a28587-8d55-4e8d-a838-783a45b4d88b",
+"verified_image": true
+},
+"S098a": {
+"video": "8e7d519a-8082-4cb9-ac7c-5d1562804b3e",
+"verified_image": true
 }
 }
