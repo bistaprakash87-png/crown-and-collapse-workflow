@@ -1,0 +1,72 @@
+{
+"S001": {
+"image": "85670b8b-c5f0-4c20-8f09-0b72c3d33fdb",
+"video": "a25236a2-71b1-487f-9fca-9f6555ec7e7e",
+"audio_s": 6
+},
+"S002": {
+"image": "4d531147-c61e-4736-acc0-9d7d4052813a",
+"video": "a12afd67-afdc-443d-a97e-f632167c8a5d",
+"audio_s": 6
+},
+"S030": {
+"video": "c12e02ed-6af0-4fa2-a7b2-b70b920516ef",
+"audio_s": 6
+},
+"S033": {
+"video": "a437883f-9dd2-4784-a050-9ebc4b4b59bb"
+},
+"S034": {
+"video": "42efef7e-f85b-46fe-910f-a5ba60da4b15",
+"note": "reused 2nd candidate of S033 generation"
+},
+"S037": {
+"video": "92fc0de5-789c-4d55-b47f-ffb9a65acc7b"
+},
+"S041": {
+"video": "69d24186-e57a-4c0f-bf41-e826fc35644a",
+"note": "CC off"
+},
+"S039": {
+"video": "40784cfa-156b-4f59-8086-64eeac680d14"
+},
+"S017": {
+"video": "e4cfb732-98a7-4aa6-8c1f-292c0c51ccab"
+},
+"S018": {
+"video": "cc717958-8c88-4503-b1ce-f6e72dab1564"
+},
+"S023": {
+"video": "832923c0-1f1b-4c6a-9093-abc5438110a5"
+},
+"S024": {
+"video": "47a77be8-3f23-41f2-b5f0-c4b7db68eae6",
+"note": "2nd attempt; 1st had 5 funnels"
+},
+"S104": {
+"video": "11fcccbe-786b-4935-ba3a-7bfa5c8a00a6"
+},
+"S011": {
+"video": "432565f2-253a-4a82-9cae-bde3facf3f9c"
+},
+"S027": {
+"video": "ba28b22f-2b2c-4a43-a2b6-57ca7e81eab4"
+},
+"S085": {
+"video": "7c064882-f074-46b9-a046-9f441fe53a5e"
+},
+"S029": {
+"video": "daed5271-947e-4284-a435-98932974e1ec"
+},
+"S042": {
+"video": "825d8a39-4704-477a-b5d5-a189902a5f95",
+"note": "2nd candidate of S029 generation"
+},
+"S032": {
+"video": "4208fd6b-6d4a-491b-ba70-082226452e81"
+},
+"S028": {
+"video": "7ebdd44a-73af-41d4-bc99-b802a134a15d",
+"note": "2nd candidate of S032 generation"
+}
+}
