@@ -37,3 +37,5 @@ Redone shots (64): S003 S004 S008 S009 S010 S012 S013 S015 S016 S019 S020 S021 S
 - Captions: VideoExpress "Automatic Captions" opens an outside service (vidsubtitleapp.com), so it wasn't used. lusitania-captions.srt was built from the narration and the measured clip timings instead.
 - Music: VideoExpress stock audio has only nature ambience (no music), so no music bed was added.
 - Export: MP4, FullHD, High, submitted for project 442209.
+- **Export verified:** My Videos item 734577, "How the Sinking of the Lusitania Turned America Against Germany", 20/10/2026 16:47, 303.76 MB, MP4 1920×1080, 599.66 s. The file loads and its metadata reads correctly. The render request itself timed out (504) but stayed in the queue and finished; it wasn't resubmitted.
+- **Not verified:** a full playback of the audio and motion in the final MP4.
