@@ -24,3 +24,8 @@ UI notes: "+ Consistent Character" saves the current image to My AI Images and f
 - Regenerated: S016 (wrong ship type), S021 (garbled text ×2, then a modern German flag; final version has no flag), S025 (sailing-ship setting), S047 (misspelled headline), S053 (anachronistic microphone), S056 (child read as adult), S068 (letter signed "Wilson").
 - Rewritten before generation to avoid garbled text: S086, S094, S098 (headline shots changed to scenes without lettering).
 - Accepted with minor compromises: S046 (odd second figure), S071 (medal shown with a ribbon), S077 (blurry banner text), S083 (ferry bow intact).
+
+## Redo after the image-selection bug
+Clicking a single-image slide didn't change the source image. Create Video used the carousel's active slide, which is the most recently finished image. So in every batch, all videos were animated from the batch's last image. Found during the library check before assembly.
+Fix: move the carousel to the shot's image (`swiper.slideTo`) before Create Video, then confirm the `uuid=` image parameter in the image2video request matches the approved image.
+Redone shots (64): S003 S004 S008 S009 S010 S012 S013 S015 S016 S019 S020 S021 S022 S025 S026 S035 S036 S038 S040 S043 S045 S046 S047 S048 S049 S050 S052 S053 S054 S055 S056 S060 S063 S064 S065 S066 S067 S068 S070 S071 S072 S073 S074 S075 S077 S078 S079 S080 S081 S082 S086 S087 S088 S089 S090 S092 S093 S095 S098 S099 S100 S101 S102 S103, plus S006. New job IDs go in jobs.json, replacing the old ones. The superseded clips stay in My AI Videos unused.
