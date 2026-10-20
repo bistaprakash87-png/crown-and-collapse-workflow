@@ -31,6 +31,8 @@
 - [ ] The project was saved after each completed chapter.
 
 ## Finish and export
+- [ ] A new project was created (☰ → New) and named before the first save. No existing project was overwritten.
+- [ ] Every clip's source image was confirmed through the request `uuid` or its first frame, so no clip reused another shot's image.
 - [ ] Clips were matched to shots by job ID, added once each in order with right-click → Add to Timeline, and each addition was verified.
 - [ ] Auto Align ran, and there are no gaps, duplicate audio or truncated narration.
 - [ ] Captions and the music bed were added if available, with music under the voice. Unavailable features were reported.

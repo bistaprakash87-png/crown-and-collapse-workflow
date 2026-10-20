@@ -130,6 +130,11 @@ Route: https://app.videoexpress.ai/ → Create with AI → Create Video From Pro
 4. Click Create Video. In the TTS dialog choose CloneVoice → System Voice → Beau Whitaker (or the chosen voice), paste only that shot's narration line, create the audio, confirm it is ready, and submit. On the first use of each difficult name, listen once to check pronunciation and respell it if wrong.
 5. Record the job ID and immediately prepare the next shot in the same open panel.
 
+**Source-image trap (learned on the Lusitania run).** Create Video animates the image carousel's *active* slide, not the thumbnail you clicked. Each newly finished image becomes the active slide. If you generate several images and then submit videos, every video gets the last image unless you move the carousel first.
+- Before each Create Video, move the carousel to that shot's approved image.
+- After submitting, confirm the `uuid=` image parameter in the image2video request equals the approved image's ID.
+- Before assembly, compare each clip's first frame (library `imagePath`) with its shot.
+
 **Concurrency and batching:**
 - **Slots.** Use the account's visible concurrent-generation limit, up to five jobs. When the slots are full, wait for a job to finish; a full queue is not a failure, so never duplicate a job.
 - **Chapters.** Produce chapter by chapter. When every shot in a chapter is complete, add that chapter to the timeline (Phase 6), save the project, and note the chapter as done. A long run interrupted at any point can then resume from the next chapter, not from scratch.
@@ -138,6 +143,7 @@ Route: https://app.videoexpress.ai/ → Create with AI → Create Video From Pro
 
 ## 6. Assembly, finishing and export
 
+0. **Start a new project first.** Use ☰ → New, so you never save into an existing project. The editor reopens the last project, and saving there overwrites that project's timeline. Check the project title (it pre-fills the Export file name) before the first Save, and give the new project the video's title when the Save dialog asks.
 1. Open Media Library → My Media → My AI Videos. Match each clip to its shot using the job ID or title, not by newest-first order.
 2. Right-click → Add to Timeline in shot order, one at a time. Verify one new clip appears each time, and check the timeline before re-clicking an uncertain add.
 3. Run Auto Align Clips on populated tracks. Verify clip count, order, no gaps, no duplicate audio, and complete narration.
