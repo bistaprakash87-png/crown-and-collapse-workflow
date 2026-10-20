@@ -29,3 +29,11 @@ UI notes: "+ Consistent Character" saves the current image to My AI Images and f
 Clicking a single-image slide didn't change the source image. Create Video used the carousel's active slide, which is the most recently finished image. So in every batch, all videos were animated from the batch's last image. Found during the library check before assembly.
 Fix: move the carousel to the shot's image (`swiper.slideTo`) before Create Video, then confirm the `uuid=` image parameter in the image2video request matches the approved image.
 Redone shots (64): S003 S004 S008 S009 S010 S012 S013 S015 S016 S019 S020 S021 S022 S025 S026 S035 S036 S038 S040 S043 S045 S046 S047 S048 S049 S050 S052 S053 S054 S055 S056 S060 S063 S064 S065 S066 S067 S068 S070 S071 S072 S073 S074 S075 S077 S078 S079 S080 S081 S082 S086 S087 S088 S089 S090 S092 S093 S095 S098 S099 S100 S101 S102 S103, plus S006. New job IDs go in jobs.json, replacing the old ones. The superseded clips stay in My AI Videos unused.
+
+## Assembly and export
+- All 114 clips were matched to shots by job ID through the library API (uuid → media id) and added in script order with right-click → Add to Timeline. Each add was checked (+1 clip), then order was verified against file names: 0 mismatches, 0 gaps, 0 overlaps, all on track 1. Auto Align was run.
+- Measured runtime: 599.75 s (9:59.8).
+- **Project mix-up:** the editor had been left on the existing project "Why Supermarkets Put Essentials Far Apart - 5 min" (ID 440793). The first save at about 16:27 wrote the Lusitania timeline into that project. Its exported MP4 is still in My Videos, but its editable timeline was replaced. The Lusitania video was then rebuilt in a new project, "How the Sinking of the Lusitania Turned America Against Germany" (ID 442209).
+- Captions: VideoExpress "Automatic Captions" opens an outside service (vidsubtitleapp.com), so it wasn't used. lusitania-captions.srt was built from the narration and the measured clip timings instead.
+- Music: VideoExpress stock audio has only nature ambience (no music), so no music bed was added.
+- Export: MP4, FullHD, High, submitted for project 442209.
