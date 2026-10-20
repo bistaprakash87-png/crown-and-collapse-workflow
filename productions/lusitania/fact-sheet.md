@@ -35,3 +35,15 @@
 | F31 | Germany paid compensation in 1925 | 1925 | [Wikipedia](https://en.wikipedia.org/wiki/Sinking_of_the_RMS_Lusitania) | solid |
 
 **Thesis (supported by Britannica, which says the sinking "contributed indirectly" to US entry):** the sinking turned American opinion against Germany, but the war itself came two years later.
+
+## Added for the 10-minute target
+| # | Claim | Date | Source | Confidence |
+|---|---|---|---|---|
+| F40 | Lusitania won the Blue Riband in 1907, ending a decade of German holders | 1907 | [Wikipedia, RMS Lusitania](https://en.wikipedia.org/wiki/RMS_Lusitania) | solid |
+| F41 | About 764 people survived | 1915 | [Wikipedia, RMS Lusitania](https://en.wikipedia.org/wiki/RMS_Lusitania) | solid |
+| F42 | The manifest listed about 4.2 million rifle cartridges, shell cases and fuses | 1915 | [Wikipedia, RMS Lusitania](https://en.wikipedia.org/wiki/RMS_Lusitania) | solid |
+| F43 | The Goetz medal was misdated 5 May; British intelligence used this to imply premeditation; about 300,000 British copies were sold for St Dunstan's and the Red Cross | 1915–16 | [IWM](https://www.iwm.org.uk/history/how-a-german-medallion-became-a-british-propaganda-tool) | solid |
+| F44 | The Arabic pledge was given by Ambassador Bernstorff on 1 Sept 1915 | 1915 | [Wikipedia, SS Arabic](https://en.wikipedia.org/wiki/SS_Arabic_(1902)) | solid |
+| F45 | About 80 died on the Sussex, including Enrique Granados | 24 Mar 1916 | [Wikipedia, Sussex pledge](https://en.wikipedia.org/wiki/Sussex_pledge) | solid |
+| F46 | The Zimmermann Telegram was deciphered in January 1917 and given to the US on 24 Feb 1917 | 1917 | [National Archives](https://www.archives.gov/milestone-documents/zimmermann-telegram) | solid |
+| F47 | The Senate voted 82–6 (4 Apr) and the House 373–50 (6 Apr) | 1917 | [Miller Center](https://millercenter.org/node/68071) | solid |

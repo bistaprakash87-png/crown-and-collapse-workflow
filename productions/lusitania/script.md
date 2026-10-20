@@ -1,6 +1,6 @@
 # Script: How the Sinking of the Lusitania Turned America Against Germany
 
-16:9 · Beau Whitaker · 105 lines
+16:9 · Beau Whitaker · 114 lines
 
 
 ## Hook
@@ -29,6 +29,7 @@
 16. Then, on May 1, a U-boat torpedoed the American tanker Gulflight, and three men died.
 17. At the centre of this danger sailed the Lusitania, pride of the Cunard line.
 18. When she entered service in 1907, she was one of the largest and fastest ships ever built.
+18a. In 1907 she won the Blue Riband for the fastest Atlantic crossing, taking the title from Germany. [F-added: Wikipedia RMS Lusitania]
 19. Her passengers included millionaires, families, nannies and children, all bound for Liverpool.
 20. On the morning she sailed, a strange notice appeared in American newspapers.
 21. The German embassy warned that travellers on British ships sailed at their own risk.
@@ -59,6 +60,7 @@
 43. Fishing boats and steamers rushed from the coast to pull survivors from the water.
 44. Survivors and the dead were brought to the Irish port of Queenstown.
 45. Nearly twelve hundred people were lost, including ninety-four children.
+45a. Only around seven hundred and sixty passengers and crew survived. [Wikipedia: ~764 survivors]
 
 ## America's Fury
 
@@ -72,6 +74,7 @@
 53. Germany insisted that the Lusitania was a legitimate target carrying weapons for Britain.
 54. Berlin even claimed the ship was armed, but American inspectors had found no guns aboard.
 55. Her cargo did include millions of rifle cartridges and over a thousand cases of shrapnel shells.
+55a. That cargo was listed openly on the ship’s manifest when she left New York. [Wikipedia: manifest listed ~4.2M cartridges]
 56. But to most Americans, that could never justify drowning women and children without warning.
 57. For the first time, many ordinary Americans saw Germany not as a distant power, but as a threat.
 
@@ -94,7 +97,9 @@
 
 70. Britain understood the power of the tragedy, and quickly turned it into a weapon.
 71. In Germany, an artist named Karl Goetz made a satirical medal mocking the sinking.
+71a. It was dated May the fifth, two days early, and Britain called that error proof of a plan. [IWM]
 72. British officials made huge numbers of copies and sold them as proof of German cruelty.
+72a. Around three hundred thousand copies were sold, raising money for the Red Cross and blinded soldiers. [IWM: ~300,000; St Dunstan’s and Red Cross]
 73. Days after the sinking, Britain also published the Bryce Report on German atrocities in Belgium.
 74. Many of its stories were later shown to be exaggerated, but in 1915 they were widely believed.
 75. In America, a famous recruiting poster showed a drowning mother clutching her baby beneath one word: Enlist.
@@ -108,7 +113,9 @@
 80. Germany's admirals were furious, convinced their submarines could win the war if they were unleashed.
 81. But in August 1915, another U-boat sank the British liner Arabic, and more Americans died.
 82. Facing a break with Washington, Germany promised not to sink passenger liners without warning.
+82a. The German ambassador, Count Johann von Bernstorff, delivered this Arabic pledge in September 1915. [Wikipedia SS Arabic: 1 Sept 1915]
 83. In March 1916, a torpedo hit the French ferry Sussex, injuring several Americans aboard.
+83a. Around eighty people died, among them the Spanish composer Enrique Granados. [Wikipedia Sussex pledge]
 84. Wilson threatened to cut diplomatic ties, and Germany promised again to restrain its submarines.
 85. For the rest of 1916, the U-boats held back, and America stayed out of the war.
 86. In 1916, Wilson won re-election with a simple slogan: He kept us out of war.
@@ -122,11 +129,13 @@
 91. Two days later, Wilson broke off diplomatic relations with Germany.
 92. Then British codebreakers revealed a secret German message called the Zimmermann Telegram.
 93. It offered Mexico Texas, New Mexico and Arizona if it joined a war against the United States.
+93a. Britain had decoded it in January, and handed it to Washington on February 24. [National Archives]
 94. When the telegram was published on March 1, Americans were outraged.
 95. In March, U-boats sank several American merchant ships, and public patience finally ran out.
 96. On April 2, 1917, Wilson asked Congress for a declaration of war against Germany.
 97. He told them the world must be made safe for democracy.
 98. Four days later, on April 6, Congress voted for war.
+98a. The Senate voted eighty-two to six, and the House three hundred seventy-three to fifty. [Miller Center]
 99. As American soldiers sailed for France, the memory of the Lusitania sailed with them.
 
 ## Conclusion
