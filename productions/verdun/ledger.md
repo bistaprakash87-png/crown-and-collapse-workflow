@@ -31,3 +31,9 @@ Driven by page JS helpers (`vx.*`) over the UI: carousel `slideTo` the shot's im
 - Captions: `verdun-captions.srt` built from the narration and measured clip times (VideoExpress Automatic Captions opens an outside service).
 - Music: none added (stock audio only has nature ambience on this plan, per the Lusitania run).
 - Export verified: My Videos item 749907, "Verdun: The Battle Designed to Bleed France White", 27/10/2026 14:50, 304.81 MB, MP4 1920×1080, 598.54 s. Metadata loads; full playback not verified.
+
+## v2 (opening fix after vidIQ pre-publish forecast)
+- Forecast flagged near-silence in the first seconds. Measured: narration starts at 0.1 s, but S001 had a 0.5 s pause (2.3–2.8 s, after "In February 1916,") and 0.3 s of silence at its end.
+- S001 regenerated (new image 2f30b573…, clip 1de98783…, audio 46407171) with the line read without the comma; new clip has no frame below −52 dB. Swapped in at 0:00, Auto Align: 111 clips, 0 gaps, 598.55 s.
+- Saved project 451915 and exported as "Verdun: The Battle Designed to Bleed France White (v2)", MP4 1080 High.
+- Subtitles rebuilt as `verdun-subtitles-en.srt`: 323 cues of ≤7 words / ≤42 characters, each line's cues ending when its narration ends (measured per clip). Replaces `verdun-captions.srt`.
