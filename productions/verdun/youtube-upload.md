@@ -60,5 +60,7 @@ battle of verdun, verdun, verdun 1916, battle of verdun ww1, bleed france white,
 "battle of verdun" is the main search phrase, so it leads the title-adjacent tags. "military history" and "ww1 documentary" have the lowest competition among the large terms.
 
 ## Thumbnail
-Generated with vidIQ (1280×720 PNG): https://ai-thumbnails.s3.amazonaws.com/editor/c8d46726-34b8-4611-8d7f-74ee7fe316f9/52c42a8c-4237-40d8-8e9a-5ae36b333749.png
-A French poilu in horizon blue at the edge of a shell crater, a German field gun firing under a red sky, overlay "BLEED FRANCE WHITE".
+**Recommended (matches the reference style):** https://ai-thumbnails.s3.amazonaws.com/editor/c8d46726-34b8-4611-8d7f-74ee7fe316f9/ce587522-92dc-47a2-8744-88b157607121.png
+Red and orange paper sunburst, shocked German soldier in a 1916 Stahlhelm clutching his helmet, a small Verdun fort diorama with a French flag, text "BLEED / FRANCE? / 1916".
+
+Backup (darker, documentary look): https://ai-thumbnails.s3.amazonaws.com/editor/c8d46726-34b8-4611-8d7f-74ee7fe316f9/52c42a8c-4237-40d8-8e9a-5ae36b333749.png
