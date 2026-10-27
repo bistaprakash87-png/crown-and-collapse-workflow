@@ -30,4 +30,4 @@ Driven by page JS helpers (`vx.*`) over the UI: carousel `slideTo` the shot's im
 - Export warned that projects over 10:00 are truncated (10:07.6). S043 (labour battalions) and S088 (offensive called off) were removed; final timeline 111 clips, 598.55 s (9:58.6).
 - Captions: `verdun-captions.srt` built from the narration and measured clip times (VideoExpress Automatic Captions opens an outside service).
 - Music: none added (stock audio only has nature ambience on this plan, per the Lusitania run).
-- Export: MP4, FullHD 1080, High, submitted for project 451915.
+- Export verified: My Videos item 749907, "Verdun: The Battle Designed to Bleed France White", 27/10/2026 14:50, 304.81 MB, MP4 1920×1080, 598.54 s. Metadata loads; full playback not verified.
