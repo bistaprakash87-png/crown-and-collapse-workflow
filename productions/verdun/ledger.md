@@ -37,3 +37,4 @@ Driven by page JS helpers (`vx.*`) over the UI: carousel `slideTo` the shot's im
 - S001 regenerated (new image 2f30b573…, clip 1de98783…, audio 46407171) with the line read without the comma; new clip has no frame below −52 dB. Swapped in at 0:00, Auto Align: 111 clips, 0 gaps, 598.55 s.
 - Saved project 451915 and exported as "Verdun: The Battle Designed to Bleed France White (v2)", MP4 1080 High.
 - Subtitles rebuilt as `verdun-subtitles-en.srt`: 323 cues of ≤7 words / ≤42 characters, each line's cues ending when its narration ends (measured per clip). Replaces `verdun-captions.srt`.
+- v2 export verified: My Videos item 750230, 27/10/2026 17:46, 304.82 MB, MP4 1920×1080, 598.54 s. Use this one for upload.
